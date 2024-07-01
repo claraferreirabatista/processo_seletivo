@@ -1,0 +1,406 @@
+Data,Nome,E-mail,Telefone,Campanha,Mídia,Conjunto,Anúncio,Perfil
+02/01/2024,Ana Silva,ana.silva@example.com,(42) 12345-6789,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+02/01/2024,Bruno Souza,bruno.souza@example.com,(42) 98765-4321,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+02/01/2024,Carlos Pereira,carlos.pereira@example.com,(42) 11223-4455,campanha-institucional,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+02/01/2024,Daniela Oliveira,daniela.oliveira@example.com,(42) 99887-7766,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+03/01/2024,Eduardo Santos,eduardo.santos@example.com,(42) 77665-5544,ebook,Link-da-bio,uknown,uknown,Acima de 1milhão
+04/01/2024,Fernanda Almeida,fernanda.almeida@example.com,(42) 33445-6677,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+04/01/2024,Gustavo Rodrigues,gustavo.rodrigues@example.com,(42) 55667-7888,webinar,uknown,uknown,uknown,Abaixo de 100 mil
+04/01/2024,Helena Fernandes,helena.fernandes@example.com,(42) 22334-5566,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+04/01/2024,Igor Lima,igor.lima@example.com,(42) 99887-6655,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+04/01/2024,Juliana Costa,juliana.costa@example.com,(42) 11223-3344,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+05/01/2024,Karla Silva,karla.silva@example.com,(42) 33445-6677,webinar,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+05/01/2024,Leonardo Souza,leonardo.souza@example.com,(42) 55667-7888,ebook,busca-orgânica,uknown,uknown,300 mil até 500 mil
+05/01/2024,Maria Pereira,maria.pereira@example.com,(42) 22334-5566,campanha-cupom,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+05/01/2024,Natália Oliveira,natalia.oliveira@example.com,(42) 11223-3344,campanha-institucional,e-mail,uknown,uknown,300 mil até 500 mil
+06/01/2024,Otávio Santos,otavio.santos@example.com,(42) 99887-6655,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Acima de 1milhão
+07/01/2024,Paula Almeida,paula.almeida@example.com,(42) 99887-7766,campanha-cupom,meta ads,campanha 3,anúncio c3,100 mil até 300 mil
+07/01/2024,Ricardo Rodrigues,ricardo.rodrigues@example.com,(42) 55667-7888,campanha-cupom,uknown,uknown,uknown,Abaixo de 100 mil
+08/01/2024,Sandra Fernandes,sandra.fernandes@example.com,(42) 33445-6677,ebook,meta ads,campanha 1,anúncio b1,300 mil até 500 mil
+08/01/2024,Thiago Lima,thiago.lima@example.com,(42) 22334-5566,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+08/01/2024,Úrsula Costa,ursula.costa@example.com,(42) 11223-3344,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+08/01/2024,Victor Araujo,victor.araujo@example.com,(42) 99888-1234,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+09/01/2024,William Barbosa,william.barbosa@example.com,(42) 99888-2345,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+09/01/2024,Xavier Costa,xavier.costa@example.com,(42) 99888-3456,campanha-institucional,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+09/01/2024,Yasmin Dias,yasmin.dias@example.com,(42) 99888-4567,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+09/01/2024,Zeca Esteves,zeca.esteves@example.com,(42) 99888-5678,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+09/01/2024,Adriana Ferreira,adriana.ferreira@example.com,(42) 99888-6789,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+10/01/2024,Breno Gomes,breno.gomes@example.com,(42) 99888-7890,webinar,uknown,uknown,uknown,100 mil até 300 mil
+10/01/2024,Camila Henrique,camila.henrique@example.com,(42) 99888-8901,ebook,meta ads,campanha 1,anúncio b1,Abaixo de 100 mil
+11/01/2024,Diego Isabela,diego.isabela@example.com,(42) 99888-9012,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+11/01/2024,Erica Januário,erica.januario@example.com,(42) 99888-0123,campanha-institucional,e-mail,uknown,uknown,300 mil até 500 mil
+11/01/2024,Fabio Kawano,fabio.kawano@example.com,(42) 99888-1234,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+12/01/2024,Giovana Lopes,giovana.lopes@example.com,(42) 99888-2345,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+12/01/2024,Henrique Martins,henrique.martins@example.com,(42) 99888-3456,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+15/01/2024,Isabel Neves,isabel.neves@example.com,(42) 99888-4567,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+16/01/2024,João Oliveira,joao.oliveira@example.com,(42) 99888-5678,webinar,busca-orgânica,uknown,uknown,Acima de 1milhão
+16/01/2024,Karla Pinto,karla.pinto@example.com,(42) 99888-6789,campanha-cupom,meta ads,campanha 3,anúncio c3,100 mil até 300 mil
+16/01/2024,Lucas Queiroz,lucas.queiroz@example.com,(42) 99888-7890,webinar,uknown,uknown,uknown,100 mil até 300 mil
+16/01/2024,Mariana Ribeiro,mariana.ribeiro@example.com,(42) 99888-8901,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+17/01/2024,Nelson Silva,nelson.silva@example.com,(42) 99888-9012,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+17/01/2024,Olivia Teixeira,olivia.teixeira@example.com,(42) 99888-0123,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+17/01/2024,Pedro Uchôa,pedro.uchoa@example.com,(42) 99888-1234,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+17/01/2024,Rafael Vieira,rafael.vieira@example.com,(42) 99888-2345,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+17/01/2024,Silvia Xavier,silvia.xavier@example.com,(42) 99888-3456,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+18/01/2024,Thiago Yan,thiago.yan@example.com,(42) 99888-4567,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+18/01/2024,Ulysses Zanetti,ulysses.zanetti@example.com,(42) 99888-5678,ebook,Link-da-bio,uknown,uknown,Abaixo de 100 mil
+19/01/2024,Vânia Azevedo,vania.azevedo@example.com,(42) 99888-6789,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+19/01/2024,Wagner Borges,wagner.borges@example.com,(42) 99888-7890,webinar,uknown,uknown,uknown,100 mil até 300 mil
+19/01/2024,Yara Castro,yara.castro@example.com,(42) 99888-8901,ebook,meta ads,campanha 1,anúncio b1,300 mil até 500 mil
+19/01/2024,Zuleica Dantas,zuleica.dantas@example.com,(42) 99888-9012,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+20/01/2024,Aline Evangelista,aline.evangelista@example.com,(42) 99888-0123,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+21/01/2024,Bruno Fagundes,bruno.fagundes@example.com,(42) 99888-1234,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+21/01/2024,Carla Gonçalves,carla.goncalves@example.com,(42) 99888-2345,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+22/01/2024,Daniel Henrique,daniel.henrique@example.com,(42) 99888-3456,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+22/01/2024,Fabiana Jorge,fabiana.jorge@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+22/01/2024,Gustavo Lima,gustavo.lima@example.com,(42) 99888-6789,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+22/01/2024,Heloísa Mendes,heloisa.mendes@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+22/01/2024,Igor Nunes,igor.nunes@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+22/01/2024,Joana Oliveira,joana.oliveira@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+23/01/2024,Karina Pires,karina.pires@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+24/01/2024,Lucas Queiroz,lucas.queiroz@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,300 mil até 500 mil
+25/01/2024,Márcia Ribeiro,marcia.ribeiro@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+25/01/2024,Nelson Silva,nelson.silva@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+25/01/2024,Otávio Tavares,otavio.tavares@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+25/01/2024,Patrícia Uchoa,patricia.uchoa@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+25/01/2024,Quéren-Hapuque Viana,queren.viana@example.com,(42) 99888-6789,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+25/01/2024,Ricardo Xavier,ricardo.xavier@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+26/01/2024,Sandra Yara,sandra.yara@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+26/01/2024,Tiago Zanetti,tiago.zanetti@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+26/01/2024,Ulysses Alencar,ulysses.alencar@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+26/01/2024,Vanessa Brito,vanessa.brito@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,300 mil até 500 mil
+26/01/2024,Wesley Campos,wesley.campos@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+26/01/2024,Xavier Dias,xavier.dias@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+26/01/2024,Yara Ferreira,yara.ferreira@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+29/01/2024,Zeca Gomes,zeca.gomes@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+29/01/2024,Amanda Henrique,amanda.henrique@example.com,(42) 99888-6789,ebook,Link-da-bio,uknown,uknown,Acima de 1milhão
+29/01/2024,Bruno Igrejas,bruno.igrejas@example.com,(42) 99888-7890,ebook,meta ads,campanha 1,anúncio b1,Abaixo de 100 mil
+29/01/2024,Carla Jardim,carla.jardim@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+29/01/2024,Diogo Kléber,diogo.kleber@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,Abaixo de 100 mil
+30/01/2024,Elisa Lacerda,elisa.lacerda@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+30/01/2024,Fernando Moraes,fernando.moraes@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+30/01/2024,Graziela Nunes,graziela.nunes@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+30/01/2024,Hector Oliveira,hector.oliveira@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+31/01/2024,Isabela Pereira,isabela.pereira@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+31/01/2024,João Quaresma,joao.quaresma@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+31/01/2024,Karina Rios,karina.rios@example.com,(42) 99888-6789,campanha-cupom,google ads,rede de pesquisa,conjunto 3,100 mil até 300 mil
+01/02/2024,Leonardo Sampaio,leonardo.sampaio@example.com,(42) 99888-7890,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+01/02/2024,Márcia Tavares,marcia.tavares@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+02/02/2024,Nelson Uchôa,nelson.uchoa@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,Abaixo de 100 mil
+02/02/2024,Olivia Vargas,olivia.vargas@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+02/02/2024,Paulo Werneck,paulo.werneck@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+02/02/2024,Quintino Ximenes,quintino.ximenes@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+02/02/2024,Raquel Yanez,raquel.yanez@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+02/02/2024,Samuel Zago,samuel.zago@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+02/02/2024,Tânia Almeida,tania.almeida@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+03/02/2024,Ubaldo Barbosa,ubaldo.barbosa@example.com,(42) 99888-6789,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+04/02/2024,Vanessa Campos,vanessa.campos@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+05/02/2024,Washington Dias,washington.dias@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+05/02/2024,Xuxa Fernandes,xuxa.fernandes@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+05/02/2024,Ygor Gomes,ygor.gomes@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+05/02/2024,Zilda Horta,zilda.horta@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+05/02/2024,Aline Igrejas,aline.igrejas@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+05/02/2024,Bruno Jardim,bruno.jardim@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+06/02/2024,Carla Kléber,carla.kleber@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+06/02/2024,Diogo Lacerda,diogo.lacerda@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+06/02/2024,Elisa Moraes,elisa.moraes@example.com,(42) 99888-6789,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Acima de 1milhão
+06/02/2024,Fernando Nunes,fernando.nunes@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+06/02/2024,Graziela Oliveira,graziela.oliveira@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+07/02/2024,Hector Pereira,hector.pereira@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+07/02/2024,Isabela Quaresma,isabela.quaresma@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+08/02/2024,João Rios,joao.rios@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+08/02/2024,Karina Sampaio,karina.sampaio@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+08/02/2024,Leonardo Tavares,leonardo.tavares@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+08/02/2024,Márcia Uchôa,marcia.uchoa@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+09/02/2024,Nelson Vargas,nelson.vargas@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+09/02/2024,Olivia Werneck,olivia.werneck@example.com,(42) 99888-6789,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Acima de 1milhão
+12/02/2024,Paulo Ximenes,paulo.ximenes@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+12/02/2024,Quintino Yanez,quintino.yanez@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+12/02/2024,Raquel Zago,raquel.zago@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+13/02/2024,Samuel Almeida,samuel.almeida@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+13/02/2024,Tânia Barbosa,tania.barbosa@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+13/02/2024,Ubaldo Campos,ubaldo.campos@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+13/02/2024,Vanessa Dias,vanessa.dias@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+13/02/2024,Washington Fernandes,washington.fernandes@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+13/02/2024,Xuxa Gomes,xuxa.gomes@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,100 mil até 300 mil
+15/02/2024,Ygor Henrique,ygor.henrique@example.com,(42) 99888-6789,campanha-cupom,google ads,rede de pesquisa,conjunto 3,100 mil até 300 mil
+15/02/2024,Zilda Igrejas,zilda.igrejas@example.com,(42) 99888-7890,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+15/02/2024,Aline Jardim,aline.jardim@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+15/02/2024,Bruno Kléber,bruno.kleber@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+16/02/2024,Carla Lacerda,carla.lacerda@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+16/02/2024,Diogo Moraes,diogo.moraes@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+16/02/2024,Elisa Nunes,elisa.nunes@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+18/02/2024,Fernando Oliveira,fernando.oliveira@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+19/02/2024,Graziela Pereira,graziela.pereira@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+19/02/2024,Hector Quaresma,hector.quaresma@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+19/02/2024,Isabela Rios,isabela.rios@example.com,(42) 99888-6789,ebook,Link-da-bio,uknown,uknown,Acima de 1milhão
+19/02/2024,João Sampaio,joao.sampaio@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+19/02/2024,Karina Tavares,karina.tavares@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+20/02/2024,Leonardo Uchôa,leonardo.uchoa@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+20/02/2024,Márcia Vargas,marcia.vargas@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+21/02/2024,Nelson Werneck,nelson.werneck@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+21/02/2024,Olivia Ximenes,olivia.ximenes@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+21/02/2024,Paulo Yanez,paulo.yanez@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+21/02/2024,Quintino Zago,quintino.zago@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+22/02/2024,Raquel Almeida,raquel.almeida@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+22/02/2024,Samuel Barbosa,samuel.barbosa@example.com,(42) 99888-6789,ebook,Link-da-bio,uknown,uknown,Abaixo de 100 mil
+22/02/2024,Tânia Campos,tania.campos@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+22/02/2024,Ubaldo Dias,ubaldo.dias@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+22/02/2024,Vanessa Fernandes,vanessa.fernandes@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+23/02/2024,Washington Gomes,washington.gomes@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+23/02/2024,Yara Jardim,yara.jardim@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Abaixo de 100 mil
+23/02/2024,Zeca Kléber,zeca.kleber@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+23/02/2024,Amanda Lacerda,amanda.lacerda@example.com,(42) 99888-6789,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+23/02/2024,Bruno Moraes,bruno.moraes@example.com,(42) 99888-7890,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+23/02/2024,Carla Nunes,carla.nunes@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+24/02/2024,Diogo Oliveira,diogo.oliveira@example.com,(42) 99888-9012,ebook,meta ads,campanha 1,anúncio b1,500 mil até 1milhão
+26/02/2024,Elisa Pereira,elisa.pereira@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+26/02/2024,Fernando Quaresma,fernando.quaresma@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+26/02/2024,Graziela Ribeiro,graziela.ribeiro@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+26/02/2024,Hector Silva,hector.silva@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+28/02/2024,Isabela Tavares,isabela.tavares@example.com,(42) 99888-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 2,100 mil até 300 mil
+28/02/2024,João Uchôa,joao.uchoa@example.com,(42) 99888-1234,campanha-institucional,e-mail,uknown,uknown,300 mil até 500 mil
+28/02/2024,Karina Vargas,karina.vargas@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+28/02/2024,Leonardo Werneck,leonardo.werneck@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+29/02/2024,Márcia Ximenes,marcia.ximenes@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+29/02/2024,Nelson Yanez,nelson.yanez@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+01/03/2024,Olivia Zago,olivia.zago@example.com,(42) 99888-2345,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+01/03/2024,Paulo Almeida,paulo.almeida@example.com,(42) 99888-3456,campanha-cupom,busca-orgânica,uknown,uknown,300 mil até 500 mil
+01/03/2024,Quintino Barbosa,quintino.barbosa@example.com,(42) 99888-4567,campanha-institucional,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+02/03/2024,Raquel Campos,raquel.campos@example.com,(42) 99888-5678,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+04/03/2024,Samuel Dias,samuel.dias@example.com,(42) 99888-6789,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Acima de 1milhão
+05/03/2024,Tânia Esteves,tania.esteves@example.com,(42) 99888-7890,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+05/03/2024,Ubaldo Ferreira,ubaldo.ferreira@example.com,(42) 99888-8901,webinar,uknown,uknown,uknown,100 mil até 300 mil
+05/03/2024,Aldo Ferreira,aldo.ferreira@example.com,(42) 5555-0101,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+06/03/2024,Bia Gomes,bia.gomes@example.com,(42) 5555-0102,campanha-cupom,google ads,rede de pesquisa,conjunto 3,100 mil até 300 mil
+06/03/2024,Caio Henrique,caio.henrique@example.com,(42) 5555-0103,campanha-institucional,e-mail,uknown,uknown,500 mil até 1milhão
+07/03/2024,Dani Igrejas,dani.igrejas@example.com,(42) 5555-0104,webinar,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+07/03/2024,Érica Jardim,erica.jardim@example.com,(42) 5555-0105,ebook,meta ads,campanha 1,anúncio b1,300 mil até 500 mil
+07/03/2024,Fábio Kuster,fabio.kuster@example.com,(42) 5555-0106,campanha-cupom,google ads,rede de display,conjunto 1,100 mil até 300 mil
+07/03/2024,Gisele Lima,gisele.lima@example.com,(42) 5555-0107,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+08/03/2024,Hélio Moraes,helio.moraes@example.com,(42) 5555-0108,webinar,meta ads,campanha 2,anúncio d2,500 mil até 1milhão
+08/03/2024,Íris Nascimento,iris.nascimento@example.com,(42) 5555-0109,ebook,busca-orgânica,uknown,uknown,300 mil até 500 mil
+10/03/2024,João Oliveira,joao.oliveira@example.com,(42) 5555-0110,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+11/03/2024,Lara Prado,lara.prado@example.com,(42) 5555-0111,campanha-institucional,e-mail,uknown,uknown,100 mil até 300 mil
+12/03/2024,Mário Queiroz,mario.queiroz@example.com,(42) 5555-0112,webinar,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+12/03/2024,Nívea Ribeiro,nivea.ribeiro@example.com,(42) 5555-0113,ebook,google ads,rede de pesquisa,conjunto 1,100 mil até 300 mil
+12/03/2024,Oscar Sampaio,oscar.sampaio@example.com,(42) 5555-0114,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+13/03/2024,Patrícia Tavares,patricia.tavares@example.com,(42) 5555-0115,campanha-institucional,meta ads,campanha 4,anúncio e4,300 mil até 500 mil
+13/03/2024,Quênia Uchoa,kenia.uchoa@example.com,(42) 5555-0116,webinar,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+13/03/2024,Rui Vargas,rui.vargas@example.com,(42) 5555-0117,ebook,e-mail,uknown,uknown,100 mil até 300 mil
+13/03/2024,Silvia Xavier,silvia.xavier@example.com,(42) 5555-0118,campanha-cupom,meta ads,campanha 2,anúncio b2,Abaixo de 100 mil
+13/03/2024,Tiago Yanes,tiago.yanes@example.com,(42) 5555-0119,campanha-institucional,google ads,rede de display,conjunto 1,300 mil até 500 mil
+13/03/2024,Úrsula Zanetti,ursula.zanetti@example.com,(42) 5555-0120,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+13/03/2024,Luisa Monteiro,luisa.monteiro@example.com,(42) 90000-0001,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+13/03/2024,Marcos Almeida,marcos.almeida@example.com,(42) 90000-0002,campanha-cupom,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+13/03/2024,Ana Souza,ana.souza@example.com,(42) 90000-0003,campanha-institucional,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+13/03/2024,Pedro Lima,pedro.lima@example.com,(42) 90000-0004,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+13/03/2024,Carla Dias,carla.dias@example.com,(42) 90000-0005,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+14/03/2024,Roberto Carlos,roberto.carlos@example.com,(42) 90000-0006,campanha-cupom,google ads,rede de display,conjunto 1,100 mil até 300 mil
+14/03/2024,Juliana Faria,juliana.faria@example.com,(42) 90000-0007,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+15/03/2024,Renato Barros,renato.barros@example.com,(42) 90000-0008,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+15/03/2024,Marcela Gomes,marcela.gomes@example.com,(42) 90000-0009,ebook,meta ads,campanha 2,anúncio b2,300 mil até 500 mil
+15/03/2024,Tânia Silveira,tania.silveira@example.com,(42) 90000-0010,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+15/03/2024,Vicente Rocha,vicente.rocha@example.com,(42) 90000-0011,campanha-institucional,busca-orgânica,uknown,uknown,100 mil até 300 mil
+16/03/2024,Lívia Martins,livia.martins@example.com,(42) 90000-0012,webinar,e-mail,uknown,uknown,500 mil até 1milhão
+18/03/2024,Henrique Novaes,henrique.novaes@example.com,(42) 90000-0013,ebook,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+18/03/2024,Bianca Loureiro,bianca.loureiro@example.com,(42) 90000-0014,campanha-cupom,google ads,rede de display,conjunto 1,100 mil até 300 mil
+18/03/2024,Claudio Neto,claudio.neto@example.com,(42) 90000-0015,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+19/03/2024,João Almeida,joao.almeida@example.com,(42) 9000-0001,ebook,meta ads,campanha 1,anúncio a1,100 mil até 300 mil
+19/03/2024,Maria Clara,maria.clara@example.com,(42) 9000-0002,campanha-cupom,google ads,rede de pesquisa,conjunto 2,300 mil até 500 mil
+19/03/2024,Antônio Carlos,antonio.carlos@example.com,(42) 9000-0003,webinar,busca-orgânica,uknown,uknown,Acima de 1milhão
+20/03/2024,Luísa Fernanda,luisa.fernanda@example.com,(42) 9000-0004,campanha-institucional,e-mail,uknown,uknown,Abaixo de 100 mil
+20/03/2024,Roberto Silva,roberto.silva@example.com,(42) 9000-0005,ebook,Link-da-bio,uknown,uknown,Abaixo de 100 mil
+21/03/2024,Camila Rocha,camila.rocha@example.com,(42) 9000-0006,campanha-cupom,social-orgânico,uknown,uknown,100 mil até 300 mil
+21/03/2024,Fernando Gomes,fernando.gomes@example.com,(42) 9000-0007,campanha-institucional,uknown,uknown,uknown,Abaixo de 100 mil
+21/03/2024,Patricia Nobrega,patricia.nobrega@example.com,(42) 9000-0008,webinar,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+21/03/2024,Lucas Martins,lucas.martins@example.com,(42) 9000-0009,ebook,google ads,campanha 4,anúncio e4,300 mil até 500 mil
+21/03/2024,Cecília Viana,cecilia.viana@example.com,(42) 9000-0010,campanha-cupom,e-mail,uknown,uknown,100 mil até 300 mil
+22/03/2024,Diego Santos,diego.santos@example.com,(42) 9000-0011,webinar,Link-da-bio,uknown,uknown,100 mil até 300 mil
+22/03/2024,Renata Alves,renata.alves@example.com,(42) 9000-0012,ebook,social-orgânico,uknown,uknown,Abaixo de 100 mil
+22/03/2024,Marcelo Junior,marcelo.junior@example.com,(42) 9000-0013,campanha-institucional,uknown,uknown,uknown,100 mil até 300 mil
+22/03/2024,Fabiana Lopes,fabiana.lopes@example.com,(42) 9000-0014,campanha-cupom,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+23/03/2024,Thiago Neves,thiago.neves@example.com,(42) 9000-0015,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+24/03/2024,Rafaela Costa,rafaela.costa@example.com,(42) 9000-0001,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+25/03/2024,Marcos Pereira,marcos.pereira@example.com,(42) 9000-0002,campanha-cupom,google ads,rede de pesquisa,conjunto 1,300 mil até 500 mil
+25/03/2024,Leticia Neves,leticia.neves@example.com,(42) 9000-0003,campanha-institucional,busca-orgânica,uknown,uknown,300 mil até 500 mil
+26/03/2024,Fernando Gomes,fernando.gomes@example.com,(42) 9000-0004,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+26/03/2024,Clarice Ribeiro,clarice.ribeiro@example.com,(42) 9000-0005,campanha-institucional,google ads,rede de pesquisa,conjunto 1,Acima de 1milhão
+26/03/2024,Tiago Martins,tiago.martins@example.com,(42) 9000-0006,campanha-cupom,social-orgânico,uknown,uknown,100 mil até 300 mil
+26/03/2024,Sofia Almeida,sofia.almeida@example.com,(42) 9000-0007,campanha-institucional,uknown,uknown,uknown,500 mil até 1milhão
+26/03/2024,Lucas Ferreira,lucas.ferreira@example.com,(42) 9000-0008,webinar,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+26/03/2024,Camila Dias,camila.dias@example.com,(42) 9000-0009,ebook,google ads,campanha 4,anúncio e4,300 mil até 500 mil
+26/03/2024,Daniel Costa,daniel.costa@example.com,(42) 9000-0010,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+26/03/2024,Beatriz Silva,beatriz.silva@example.com,(42) 9000-0011,webinar,Link-da-bio,uknown,uknown,100 mil até 300 mil
+26/03/2024,Carlos Junior,carlos.junior@example.com,(42) 9000-0012,ebook,social-orgânico,uknown,uknown,500 mil até 1milhão
+26/03/2024,Débora Lopes,debora.lopes@example.com,(42) 9000-0013,campanha-institucional,uknown,uknown,uknown,Acima de 1milhão
+27/03/2024,Elisa Monteiro,elisa.monteiro@example.com,(42) 9000-0014,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+27/03/2024,Fábio Nogueira,fabio.nogueira@example.com,(42) 9000-0015,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+27/03/2024,Giovana Santos,giovana.santos@example.com,(42) 9000-0016,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+27/03/2024,Hélio Oliveira,helio.oliveira@example.com,(42) 9000-0017,campanha-cupom,e-mail,uknown,uknown,300 mil até 500 mil
+28/03/2024,Íris Pereira,iris.pereira@example.com,(42) 9000-0018,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+28/03/2024,João Macedo,joao.macedo@example.com,(42) 9000-0019,webinar,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+28/03/2024,Lara Rocha,lara.rocha@example.com,(42) 9000-0020,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+28/03/2024,Ana Beatriz Lima,ana.beatriz@example.com,(42) 90000-0001,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+29/03/2024,Carlos Eduardo Santos,carlos.eduardo@example.com,(42) 90000-0002,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+29/03/2024,Fernanda Correia,fernanda.c@example.com,(42) 90000-0003,campanha-institucional,busca-orgânica,uknown,uknown,Acima de 1milhão
+29/03/2024,Roberto Almeida,roberto.almeida@example.com,(42) 90000-0004,webinar,e-mail,uknown,uknown,300 mil até 500 mil
+29/03/2024,Juliana Martins,juliana.martins@example.com,(42) 90000-0005,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+29/03/2024,Marcelo Silva,marcelo.silva@example.com,(42) 90000-0006,campanha-cupom,social-orgânico,uknown,uknown,100 mil até 300 mil
+31/03/2024,Luciana Freitas,luciana.freitas@example.com,(42) 90000-0007,campanha-institucional,uknown,uknown,uknown,500 mil até 1milhão
+01/04/2024,Rafael Gomes,rafael.gomes@example.com,(42) 90000-0008,webinar,meta ads,campanha 2,anúncio d2,Acima de 1milhão
+01/04/2024,Vanessa Ribeiro,vanessa.ribeiro@example.com,(42) 90000-0009,ebook,google ads,campanha 4,anúncio e4,300 mil até 500 mil
+01/04/2024,Sergio Morais,sergio.morais@example.com,(42) 90000-0010,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+01/04/2024,Patricia Oliveira,patricia.oliveira@example.com,(42) 90000-0011,webinar,Link-da-bio,uknown,uknown,100 mil até 300 mil
+02/04/2024,Tiago Pereira,tiago.pereira@example.com,(42) 90000-0012,ebook,social-orgânico,uknown,uknown,500 mil até 1milhão
+02/04/2024,Fabiana Costa,fabiana.costa@example.com,(42) 90000-0013,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+02/04/2024,Marcos Junior,marcos.junior@example.com,(42) 90000-0014,campanha-cupom,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+02/04/2024,Larissa Machado,larissa.machado@example.com,(42) 90000-0015,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+03/04/2024,Amanda Castro,amanda.castro@example.com,(42) 90000-0016,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+03/04/2024,Bruno Mendes,bruno.mendes@example.com,(42) 90000-0017,campanha-cupom,google ads,rede de pesquisa,conjunto 2,300 mil até 500 mil
+03/04/2024,Cecília Alves,cecilia.alves@example.com,(42) 90000-0018,campanha-institucional,busca-orgânica,uknown,uknown,Acima de 1milhão
+03/04/2024,Diego Ferreira,diego.ferreira@example.com,(42) 90000-0019,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+04/04/2024,Elisa Barros,elisa.barros@example.com,(42) 90000-0020,ebook,Link-da-bio,uknown,uknown,Abaixo de 100 mil
+04/04/2024,Fábio Costa,fabio.costa@example.com,(42) 90000-0021,campanha-cupom,social-orgânico,uknown,uknown,100 mil até 300 mil
+04/04/2024,Gisele Dias,gisele.dias@example.com,(42) 90000-0022,campanha-institucional,uknown,uknown,uknown,500 mil até 1milhão
+05/04/2024,Heitor Gomes,heitor.gomes@example.com,(42) 90000-0023,webinar,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+05/04/2024,Íris Santos,iris.santos@example.com,(42) 90000-0024,ebook,google ads,campanha 4,anúncio e4,300 mil até 500 mil
+05/04/2024,João Lima,joao.lima@example.com,(42) 90000-0025,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+08/04/2024,Lara Nunes,lara.nunes@example.com,(42) 90000-0026,webinar,google ads,rede de display,conjunto 1,100 mil até 300 mil
+08/04/2024,Marcelo Oliveira,marcelo.oliveira@example.com,(42) 90000-0027,ebook,social-orgânico,uknown,uknown,500 mil até 1milhão
+08/04/2024,Natália Pereira,natalia.pereira@example.com,(42) 90000-0028,campanha-institucional,uknown,uknown,uknown,100 mil até 300 mil
+08/04/2024,Otávio Ribeiro,otavio.ribeiro@example.com,(42) 90000-0029,campanha-cupom,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+08/04/2024,Patrícia Silva,patricia.silva@example.com,(42) 90000-0030,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+09/04/2024,Rafael Teixeira,rafael.teixeira@example.com,(42) 90000-0031,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+09/04/2024,Sabrina Viana,sabrina.viana@example.com,(42) 90000-0032,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+09/04/2024,Thais Almeida,thais.almeida@example.com,(42) 90000-0033,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+09/04/2024,Victor Barros,victor.barros@example.com,(42) 90000-0034,webinar,social-orgânico,uknown,uknown,Acima de 1milhão
+10/04/2024,Yasmin Costa,yasmin.costa@example.com,(42) 90000-0035,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+10/04/2024,Diana Oliveira,diana.oliveira@example.com,(42) 90000-0052,ebook,meta ads,campanha 4,anúncio e4,100 mil até 300 mil
+10/04/2024,Carlos Magno,carlos.magno@example.com,(42) 90000-0053,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+10/04/2024,Bianca Santos,bianca.santos@example.com,(42) 90000-0054,campanha-institucional,busca-orgânica,uknown,uknown,Acima de 1milhão
+10/04/2024,André Lopes,andre.lopes@example.com,(42) 90000-0055,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+10/04/2024,Cristina Ferreira,cristina.ferreira@example.com,(42) 90000-0056,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+11/04/2024,Eduardo Costa,eduardo.costa@example.com,(42) 90000-0057,campanha-cupom,social-orgânico,uknown,uknown,100 mil até 300 mil
+12/04/2024,Flávia Martins,flavia.martins@example.com,(42) 90000-0058,campanha-institucional,uknown,uknown,uknown,500 mil até 1milhão
+12/04/2024,Gustavo Ribeiro,gustavo.ribeiro@example.com,(42) 90000-0059,webinar,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+12/04/2024,Helena Souza,helena.souza@example.com,(42) 90000-0060,ebook,google ads,campanha 4,anúncio e4,300 mil até 500 mil
+15/04/2024,Ígor Gomes,igor.gomes@example.com,(42) 90000-0061,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+15/04/2024,Júlia Faria,julia.faria@example.com,(42) 90000-0062,webinar,Link-da-bio,uknown,uknown,100 mil até 300 mil
+16/04/2024,Lucas Mendonça,lucas.mendonca@example.com,(42) 90000-0063,ebook,social-orgânico,uknown,uknown,500 mil até 1milhão
+16/04/2024,Márcia Lima,marcia.lima@example.com,(42) 90000-0064,campanha-institucional,uknown,uknown,uknown,Acima de 1milhão
+16/04/2024,Nora Teixeira,nora.teixeira@example.com,(42) 90000-0065,campanha-cupom,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+17/04/2024,Otávio Pereira,otavio.pereira@example.com,(42) 90000-0066,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+18/04/2024,Patrícia Alves,patricia.alves@example.com,(42) 90000-0067,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+19/04/2024,Rodrigo Nascimento,rodrigo.nascimento@example.com,(42) 90000-0068,campanha-cupom,e-mail,uknown,uknown,300 mil até 500 mil
+19/04/2024,Sônia Castro,sonia.castro@example.com,(42) 90000-0069,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+19/04/2024,Tiago Rodrigues,tiago.rodrigues@example.com,(42) 90000-0070,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+19/04/2024,Vanessa Moraes,vanessa.moraes@example.com,(42) 90000-0071,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+20/04/2024,William Carvalho,william.carvalho@example.com,(42) 90000-0072,ebook,google ads,campanha 4,anúncio e4,100 mil até 300 mil
+22/04/2024,Yara Ferreira,yara.ferreira@example.com,(42) 90000-0073,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+22/04/2024,Zilda Barros,zilda.barros@example.com,(42) 90000-0074,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+23/04/2024,Alice Martins,alice.martins@example.com,(42) 90000-0075,webinar,meta ads,campanha 2,anúncio d2,Abaixo de 100 mil
+24/04/2024,Bruno Mendonça,bruno.mendonca@example.com,(42) 90000-0076,ebook,meta ads,campanha 2,anúncio d2,100 mil até 300 mil
+24/04/2024,Carla Espírito Santo,carla.espirito@example.com,(42) 90000-0077,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+24/04/2024,Daniel Rocha,daniel.rocha@example.com,(42) 90000-0078,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+25/04/2024,Érica Juarez,erica.juarez@example.com,(42) 90000-0079,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+25/04/2024,Fábio Lacerda,fabio.lacerda@example.com,(42) 90000-0080,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+25/04/2024,Gisele Morais,gisele.morais@example.com,(42) 90000-0081,webinar,meta ads,campanha 2,anúncio d2,300 mil até 500 mil
+26/04/2024,Hélio Fonseca,helio.fonseca@example.com,(42) 90000-0082,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+26/04/2024,Íris Albuquerque,iris.albuquerque@example.com,(42) 90000-0083,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+26/04/2024,João Pedro Almeida,joao.p.almeida@example.com,(42) 90000-0084,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+26/04/2024,Leticia Nunes,leticia.nunes@example.com,(42) 90000-0085,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+26/04/2024,Marcos Vinícius,marcos.vinicius@example.com,(42) 90000-0086,campanha-institucional,Link-da-bio,uknown,uknown,Abaixo de 100 mil
+26/04/2024,Natalia Soares,natalia.soares@example.com,(42) 90000-0087,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+29/04/2024,Oscar Neto,oscar.neto@example.com,(42) 90000-0088,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+29/04/2024,Paula Vieira,paula.vieira@example.com,(42) 90000-0089,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+29/04/2024,Quentin Ramos,quentin.ramos@example.com,(42) 90000-0090,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+29/04/2024,Raquel Torres,raquel.torres@example.com,(42) 90000-0091,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+29/04/2024,Samuel Queiroz,samuel.queiroz@example.com,(42) 90000-0092,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+29/04/2024,Tatiane Furtado,tatiane.furtado@example.com,(42) 90000-0093,webinar,meta ads,campanha 2,anúncio d2,300 mil até 500 mil
+30/04/2024,Ugo Pereira,ugo.pereira@example.com,(42) 90000-0094,campanha-institucional,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+30/04/2024,Viviane Alencar,viviane.alencar@example.com,(42) 90000-0095,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+01/05/2024,William Nascimento,william.nascimento@example.com,(42) 90000-0096,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+01/05/2024,Xavier Leme,xavier.leme@example.com,(42) 90000-0097,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+01/05/2024,Yasmine Freitas,yasmine.freitas@example.com,(42) 90000-0098,campanha-institucional,Link-da-bio,uknown,uknown,300 mil até 500 mil
+01/05/2024,Zara Castilho,zara.castilho@example.com,(42) 90000-0099,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+02/05/2024,Amanda Rios,amanda.rios@example.com,(42) 90000-0100,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+02/05/2024,Bruno Mendes,bruno.mendes@example.com,(42) 90000-0101,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+02/05/2024,Carla Espinosa,carla.espinosa@example.com,(42) 90000-0102,campanha-cupom,busca-orgânica,uknown,uknown,Abaixo de 100 mil
+02/05/2024,Diogo Martins,diogo.martins@example.com,(42) 90000-0103,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+03/05/2024,Elisa Couto,elisa.couto@example.com,(42) 90000-0104,webinar,google ads,rede de display,conjunto 1,100 mil até 300 mil
+03/05/2024,Fábio Gouveia,fabio.gouveia@example.com,(42) 90000-0105,webinar,meta ads,campanha 2,anúncio d2,300 mil até 500 mil
+03/05/2024,Gabriela Lima,gabriela.lima@example.com,(42) 90000-0106,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+03/05/2024,Henrique Faria,henrique.faria@example.com,(42) 90000-0107,campanha-cupom,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+06/05/2024,Íris Santana,iris.santana@example.com,(42) 90000-0108,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+06/05/2024,João Vitor Almeida,joao.vitor.almeida@example.com,(42) 90000-0109,campanha-cupom,e-mail,uknown,uknown,300 mil até 500 mil
+06/05/2024,Larissa Monteiro,larissa.monteiro@example.com,(42) 90000-0110,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+06/05/2024,Marcelo Nunes,marcelo.nunes@example.com,(42) 90000-0111,webinar,meta ads,campanha 2,anúncio d2,Acima de 1milhão
+06/05/2024,Natália Correia,natalia.correia@example.com,(42) 90000-0112,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+06/05/2024,Otávio Sousa,otavio.sousa@example.com,(42) 90000-0113,campanha-cupom,google ads,rede de pesquisa,conjunto 2,300 mil até 500 mil
+07/05/2024,Patrícia Lima,patricia.lima@example.com,(42) 90000-0114,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+07/05/2024,Quentin Rodrigues,quentin.rodrigues@example.com,(42) 90000-0115,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+07/05/2024,Rita Vasconcelos,rita.vasconcelos@example.com,(42) 90000-0116,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+07/05/2024,Silvia Pires,silvia.pires@example.com,(42) 90000-0117,campanha-cupom,social-orgânico,uknown,uknown,300 mil até 500 mil
+07/05/2024,Tiago Oliveira,tiago.oliveira@example.com,(42) 90000-0118,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+08/05/2024,Ursula Martins,ursula.martins@example.com,(42) 90000-0119,campanha-cupom,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+08/05/2024,Vitor Andrade,vitor.andrade@example.com,(42) 90000-0120,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+08/05/2024,Wallace Souza,wallace.souza@example.com,(42) 90000-0121,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+09/05/2024,Xavier Costa,xavier.costa@example.com,(42) 90000-0122,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+09/05/2024,Yara Ferreira,yara.ferreira@example.com,(42) 90000-0123,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+10/05/2024,Zacarias Mendonça,zacarias.mendonca@example.com,(42) 90000-0124,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+11/05/2024,Amanda Ribeiro,amanda.ribeiro@example.com,(42) 90000-0125,campanha-cupom,google ads,rede de pesquisa,conjunto 2,300 mil até 500 mil
+13/05/2024,Bruno Gomes,bruno.gomes@example.com,(42) 90000-0126,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+13/05/2024,Carla Dias,carla.dias@example.com,(42) 90000-0127,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+13/05/2024,Diego Santos,diego.santos@example.com,(42) 90000-0128,webinar,google ads,rede de display,conjunto 1,100 mil até 300 mil
+13/05/2024,Elisa Coutinho,elisa.coutinho@example.com,(42) 90000-0129,campanha-institucional,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+14/05/2024,Gilberto Amaral,gilberto.amaral@example.com,(42) 90000-0131,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+14/05/2024,Heloísa Monteiro,heloisa.monteiro@example.com,(42) 90000-0132,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+14/05/2024,Isabela Cardoso,isabela.cardoso@example.com,(42) 90000-0133,campanha-institucional,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+15/05/2024,Joaquim Barbosa,joaquim.barbosa@example.com,(42) 90000-0134,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+15/05/2024,Lara Fonseca,lara.fonseca@example.com,(42) 90000-0135,campanha-cupom,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+15/05/2024,Marco Tavares,marco.tavares@example.com,(42) 90000-0136,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+15/05/2024,Nívea Borges,nivea.borges@example.com,(42) 90000-0137,campanha-cupom,e-mail,uknown,uknown,300 mil até 500 mil
+16/05/2024,Olívia Santana,olivia.santana@example.com,(42) 90000-0138,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+16/05/2024,Pietro Alcântara,pietro.alcantara@example.com,(42) 90000-0139,webinar,meta ads,campanha 2,anúncio d2,Abaixo de 100 mil
+16/05/2024,Quênia Machado,quenia.machado@example.com,(42) 90000-0140,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+16/05/2024,Ronaldo Vieira,ronaldo.vieira@example.com,(42) 90000-0141,campanha-cupom,google ads,rede de pesquisa,conjunto 2,300 mil até 500 mil
+17/05/2024,Silvana Pereira,silvana.pereira@example.com,(42) 90000-0142,campanha-institucional,busca-orgânica,uknown,uknown,300 mil até 500 mil
+17/05/2024,Thiago Lemos,thiago.lemos@example.com,(42) 90000-0143,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+17/05/2024,Ursula Freitas,ursula.freitas@example.com,(42) 90000-0144,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+17/05/2024,Vitor Carvalho,vitor.carvalho@example.com,(42) 90000-0145,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+17/05/2024,Wanessa Ribeiro,wanessa.ribeiro@example.com,(42) 90000-0146,campanha-cupom,meta ads,campanha 3,anúncio c3,Abaixo de 100 mil
+17/05/2024,Xavier Andrade,xavier.andrade@example.com,(42) 90000-0147,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+17/05/2024,Yasmin Farias,yasmin.farias@example.com,(42) 90000-0148,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+18/05/2024,Zeca Moraes,zeca.moraes@example.com,(42) 90000-0149,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+18/05/2024,Aldo Nunes,aldo.nunes@example.com,(42) 90000-0150,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+19/05/2024,Bianca Torres,bianca.torres@example.com,(42) 90000-0151,ebook,meta ads,campanha 1,anúncio b1,Acima de 1milhão
+20/05/2024,Carlos Eduardo Silva,carlos.eduardo.silva@example.com,(42) 90000-0152,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+21/05/2024,Daniela Castro,daniela.castro@example.com,(42) 90000-0153,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+21/05/2024,Eduardo Ramos,eduardo.ramos@example.com,(42) 90000-0154,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+22/05/2024,Flávia Mendonça,flavia.mendonca@example.com,(42) 90000-0155,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+22/05/2024,Gabriel Alves,gabriel.alves@example.com,(42) 90000-0156,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
+22/05/2024,Helena Costa,helena.costa@example.com,(42) 90000-0157,campanha-cupom,social-orgânico,uknown,uknown,Abaixo de 100 mil
+22/05/2024,Igor Santos,igor.santos@example.com,(42) 90000-0158,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+23/05/2024,Joana Ferreira,joana.ferreira@example.com,(42) 90000-0159,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+23/05/2024,Lúcio Barreto,lucio.barreto@example.com,(42) 90000-0160,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+24/05/2024,Márcio Pinheiro,marcio.pinheiro@example.com,(42) 90000-0161,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+24/05/2024,Nívea Queirós,nivea.queiros@example.com,(42) 90000-0162,campanha-institucional,Link-da-bio,uknown,uknown,500 mil até 1milhão
+24/05/2024,Olavo Neto,olavo.neto@example.com,(42) 90000-0163,webinar,social-orgânico,uknown,uknown,Acima de 1milhão
+25/05/2024,Paula Viana,paula.viana@example.com,(42) 90000-0164,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+26/05/2024,Queralt Sousa,queralt.sousa@example.com,(42) 90000-0165,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+26/05/2024,Rodrigo Lima,rodrigo.lima@example.com,(42) 90000-0166,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+27/05/2024,Sara Mendes,sara.mendes@example.com,(42) 90000-0167,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+27/05/2024,Tiago Nunes,tiago.nunes@example.com,(42) 90000-0168,webinar,google ads,rede de display,conjunto 1,100 mil até 300 mil
+27/05/2024,Ulysses Barbosa,ulysses.barbosa@example.com,(42) 90000-0169,campanha-institucional,meta ads,campanha 3,anúncio c3,300 mil até 500 mil
+28/05/2024,Vanessa Pinto,vanessa.pinto@example.com,(42) 90000-0170,campanha-institucional,meta ads,campanha 3,anúncio c3,500 mil até 1milhão
+28/05/2024,Wesley Almeida,wesley.almeida@example.com,(42) 90000-0171,webinar,google ads,rede de display,conjunto 1,Abaixo de 100 mil
+28/05/2024,Ximena Costa,ximena.costa@example.com,(42) 90000-0172,ebook,busca-orgânica,uknown,uknown,100 mil até 300 mil
+28/05/2024,Yasmin Silva,yasmin.silva@example.com,(42) 90000-0173,campanha-cupom,e-mail,uknown,uknown,Abaixo de 100 mil
+29/05/2024,Zacarias Figueiredo,zacarias.figueiredo@example.com,(42) 90000-0174,campanha-institucional,Link-da-bio,uknown,uknown,100 mil até 300 mil
+30/05/2024,Aurora Machado,aurora.machado@example.com,(42) 90000-0175,campanha-cupom,google ads,rede de pesquisa,conjunto 3,Abaixo de 100 mil
+30/05/2024,Bruno Carvalho,bruno.carvalho@example.com,(42) 90000-0176,ebook,meta ads,campanha 1,anúncio b1,100 mil até 300 mil
+30/05/2024,Carla Dias,carla.dias@example.com,(42) 90000-0177,campanha-cupom,google ads,rede de pesquisa,conjunto 2,Abaixo de 100 mil
+30/05/2024,Daniel Rocha,daniel.rocha@example.com,(42) 90000-0178,campanha-institucional,busca-orgânica,uknown,uknown,500 mil até 1milhão
+30/05/2024,Elisa Campos,elisa.campos@example.com,(42) 90000-0179,webinar,e-mail,uknown,uknown,Abaixo de 100 mil
+30/05/2024,Fábio Martins,fabio.martins@example.com,(42) 90000-0180,ebook,Link-da-bio,uknown,uknown,100 mil até 300 mil
