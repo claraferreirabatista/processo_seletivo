@@ -1,28 +1,78 @@
-# Análise de Leads Gerados
+# Análise Exploratória de Marketing
 
-## Descrição
+Este notebook contém uma análise exploratória de dados de marketing, focando nas campanhas realizadas pela empresa em diferentes períodos. O objetivo principal é entender a performance das campanhas e identificar quais estratégias geram leads de maior qualidade e melhor retorno sobre investimento (ROI).
 
-Este notebook realiza uma análise detalhada dos leads gerados por diferentes campanhas de marketing. O objetivo é entender a eficiência das campanhas, a qualidade dos leads gerados e otimizar futuras estratégias de marketing.
+## Conteúdo
 
-## Estrutura do Notebook
+1. **Introdução**
+    - Descrição geral do objetivo do notebook.
+    - Apresentação dos dados utilizados na análise.
 
-1. **Importação de Bibliotecas Necessárias**
-2. **Importação dos Dados**
-3. **Análise da Contagem de Leads por Campanha**
-4. **Relacionamento entre Campanha e Mídia**
-5. **Visualização de Heatmap: Relação entre Campanhas e Tipos de Mídia**
-6. **Relacionamento entre Campanha e Perfis**
-7. **Contagem de Leads por Perfil**
-8. **Histograma: Análise de Porcentagem de Leads por Classificação e Campanha**
-9. **Análise de Qual Campanha Gerou o CPL mais Baixo**
-10. **Tabela de Verbas e Cálculo do CPL**
-11. **Soma Total de CPL por Campanha**
-12. **Análise de Campanha com Maior Volume de Leads de Baixa Qualificação**
+2. **Importação das Bibliotecas**
+    - Listagem das bibliotecas necessárias para a análise.
+    - Comandos de importação das bibliotecas.
 
-## Resultados
+3. **Carregamento dos Dados**
+    - Leitura dos datasets utilizados na análise.
+    - Visualização inicial dos dados.
 
-Os resultados obtidos fornecem insights valiosos sobre o desempenho das campanhas, permitindo otimizações futuras. As análises incluem contagem de leads, eficiência de mídia, custo por lead e qualidade dos leads.
+4. **Limpeza e Preparação dos Dados**
+    - Tratamento de valores ausentes.
+    - Conversão de tipos de dados.
+    - Criação de novas colunas, se necessário.
 
-## Futuras Ações
+5. **Análise Descritiva**
+    - Estatísticas descritivas dos dados.
+    - Visualizações iniciais para entender a distribuição dos dados.
 
-Utilizando os dados e insights obtidos, podemos desenvolver modelos de predição e realizar treinamentos de máquina para melhorar a segmentação de campanhas e prever a qualidade dos leads.
+6. **Análise de Performance das Campanhas**
+    - Avaliação dos leads gerados por campanha.
+    - Cálculo do Custo por Lead (CPL) por campanha.
+    - Identificação das campanhas mais eficazes.
+
+7. **Qualidade dos Leads**
+    - Análise da qualidade dos leads gerados por cada campanha.
+    - Percentual de leads qualificados (acima de 100 mil reais).
+
+8. **Análise de Mídias**
+    - Contagem e performance das mídias utilizadas nas campanhas.
+    - Comparação entre diferentes mídias.
+
+9. **Visualizações Avançadas**
+    - Gráficos de barras, linhas e dispersão para visualizar os resultados das análises.
+    - Preferência por cores vivas em gráficos de barras.
+
+10. **Conclusões**
+    - Resumo dos principais insights obtidos a partir da análise.
+    - Recomendações para futuras campanhas de marketing.
+
+## Uso
+
+Para executar este notebook, siga os passos abaixo:
+
+1. Clone este repositório em sua máquina local.
+    ```sh
+    git clone https://github.com/claraferreirabatista/processo_seletivo
+    ```
+2. Navegue até o diretório onde o notebook está localizado.
+    ```sh
+    cd <diretorio_do_notebook>
+    ```
+3. Instale as bibliotecas necessárias listadas no arquivo `requirements.txt`.
+    ```sh
+    pip install -r requirements.txt
+    ```
+4. Abra o notebook com Jupyter.
+    ```sh
+    jupyter notebook analise_exploratoria_de_marketing.ipynb
+    ```
+5. Execute as células do notebook sequencialmente para reproduzir a análise.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou sugestões.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
